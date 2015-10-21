@@ -1,0 +1,66 @@
+高维数据
+度量不同,维度间关联
+归一化至[0,1]上处理
+为避免孤立点,同一维度取最大的a个数均值为max,最小的b个数均值为min,使用冒泡排序得到
+则(x-min)/(max-min)为归一结果,其中大于1的设为1,小于0的设为0
+
+每个维度的权重计算如下
+Dimension 0 weight is: 1.000000
+Dimension 1 weight is: 0.500000
+Dimension 2 weight is: 0.333333
+Dimension 3 weight is: 0.250000
+Dimension 4 weight is: 0.200000
+Dimension 5 weight is: 0.166667
+Dimension 6 weight is: 0.142857
+Dimension 7 weight is: 0.125000
+Dimension 8 weight is: 0.111111
+Dimension 9 weight is: 0.100000
+Dimension 10 weight is: 0.090909
+Dimension 11 weight is: 0.083333
+Dimension 12 weight is: 0.076923
+Dimension 13 weight is: 0.071429
+Dimension 14 weight is: 0.066667
+Dimension 15 weight is: 0.062500
+Dimension 16 weight is: 0.058824
+Dimension 17 weight is: 0.055556
+Dimension 18 weight is: 0.052632
+Dimension 19 weight is: 0.050000
+Dimension 20 weight is: 0.047619
+Dimension 21 weight is: 0.045455
+Dimension 22 weight is: 0.043478
+Dimension 23 weight is: 0.041667
+Dimension 24 weight is: 0.040000
+Dimension 25 weight is: 0.038462
+Dimension 26 weight is: 0.037037
+Dimension 27 weight is: 0.035714
+Dimension 28 weight is: 0.034483
+Dimension 29 weight is: 0.033333
+Dimension 30 weight is: 0.032258
+Dimension 31 weight is: 0.031250
+Dimension 32 weight is: 0.030303
+Dimension 33 weight is: 0.029412
+Dimension 34 weight is: 0.028571
+Dimension 35 weight is: 0.027778
+Dimension 36 weight is: 0.027027
+Dimension 37 weight is: 0.026316
+Dimension 38 weight is: 0.025641
+Dimension 39 weight is: 0.025000
+Dimension 40 weight is: 0.024390
+Dimension 41 weight is: 0.023810
+Dimension 42 weight is: 0.023256
+Dimension 43 weight is: 0.022727
+Dimension 44 weight is: 0.022222
+Dimension 45 weight is: 0.021739
+Dimension 46 weight is: 0.021277
+Dimension 47 weight is: 0.020833
+Dimension 48 weight is: 0.020408
+Dimension 49 weight is: 0.020000
+Dimension 50 weight is: 0.019608
+Dimension 51 weight is: 0.019231
+Dimension 52 weight is: 0.018868
+Dimension 53 weight is: 0.018519
+Dimension 54 weight is: 0.018182
+Dimension 55 weight is: 0.017857
+Dimension 56 weight is: 0.017544
+
+
